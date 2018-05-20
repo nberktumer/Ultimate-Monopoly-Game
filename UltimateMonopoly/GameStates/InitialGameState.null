@@ -1,0 +1,138 @@
+// Player's Info
+// Player Name-Balance-Player In Jail-Player Cards
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+player01-3200-false-null-76-2-3-false
+// Current Player Name:
+player01
+// Board's Info
+//
+0-Pay Day
+1-Randolph Street-null-270-23-115-345-825-1010-1180-2180-0-150-0-150-0-150-Claret Red-true
+2-Chance
+3-Lake Shore Drive-null-270-23-115-345-825-1010-1180-2180-0-150-0-150-0-150-Claret Red-false
+4-Wacker Drive-null-300-26-130-390-900-1100-1275-2275-0-150-0-150-0-150-Claret Red-false
+5-Michigan Avenue-null-300-26-130-390-900-1100-1275-2275-0-150-0-150-0-150-Claret Red-false
+6-Yellow Cab Co.-null
+7-B & O Railroad-null
+8-Community Chest
+9-South Temple-null-330-32-160-470-1050-1250-1500-2500-0-200-0-200-0-200-Dark Yellow-false
+10-West Temple-null-330-32-160-470-1050-1250-1500-2500-0-200-0-200-0-200-Dark Yellow-false
+11-Trash Collector-null
+12-North Temple-null-360-38-170-520-1125-1425-1275-1650-0-200-0-200-0-200-Dark Yellow-false
+13-Temple Square-null-360-38-170-520-1125-1425-1275-1650-0-200-0-200-0-200-Dark Yellow-false
+14-Go To Jail
+15-South Street-null-390-5-210-575-1300-1600-1800-3300-0-250-0-250-0-250-Light Pink-true
+16-Broad Street-null-390-5-210-575-1300-1600-1800-3300-0-250-0-250-0-250-Light Pink-true
+17-Walnut Street-null-420-55-225-630-1450-1750-2050-3550-0-250-0-250-0-250-Light Pink-true
+18-Community Chest Square
+19-Market Street-null-420-55-225-630-1450-1750-2050-3550-0-250-0-250-0-250-Light Pink-true
+20-Bus Ticket
+21-Sewage System-null
+22-Ute Cab Co.-null
+23-Birthday Gift
+24-Mulholland Drive-null-450-70-350-750-1600-1850-2100-3600-0-300-0-300-0-300-Dark Red-false
+25-Ventura Boulevard-null-480-80-400-825-1800-2175-2550-4050-0-300-0-300-0-300-Dark Red-false
+26-Chance
+27-Rodeo Drive-null-510-90-450-900-2000-2500-3000-4500-0-300-0-300-0-300-Dark Red-false
+28-Subway
+29-Lake Street-null-30-1-5-15-45-80-125-625-0-50-0-50-0-50-Pink-true
+30-Community Chest
+31-Nicollet Avenue-null-30-1-5-15-45-80-125-625-0-50-0-50-0-50-Pink-false
+32-Hennepin Avenue-null-60-3-15-45-120-240-350-850-0-50-0-50-0-50-Pink-false
+33-Bus Ticket
+34-Checker Cab Co.-null
+35-Reading Railroad-null
+36-Esplanade Avenue-null-90-5-25-80-225-360-600-1000-0-50-0-50-0-50-Light Green-false
+37-Canal Street-null-90-5-25-80-225-360-600-1000-0-50-0-50-0-50-Light Green-true
+38-Chance
+39-Cable Company-null
+40-Magazine Street-null-120-8-40-100-300-450-600-1100-0-50-0-50-0-50-Light Green-true
+41-Bourbon Street-null-120-8-40-100-300-450-600-1100-0-50-0-50-0-50-Light Green-true
+42-Holland Tunnel
+43-Auction
+44-Katy Freeway-null-150-11-55-160-475-650-800-1300-0-100-0-100-0-100-Light Yellow-false
+45-Westhemer Road-null-150-11-55-160-475-650-800-1300-0-100-0-100-0-100-Light Yellow-false
+46-Internet Service Provider-null
+47-Kirby Drive-null-180-14-70-200-550-750-950-1450-0-100-0-100-0-100-Light Yellow-false
+48-Cullen Boulevard-null-180-14-70-200-550-750-950-1450-0-100-0-100-0-100-Light Yellow-false
+49-Chance
+50-Black & White Cab Co.-null
+51-Dekalb Avenue-null-210-17-85-240-670-840-1025-1525-0-100-0-100-0-100-Dark Green-false
+52-Community Chest
+53-Andrew Young Intl Boulevard-null-210-17-85-240-670-840-1025-1525-0-100-0-100-0-100-Dark Green-false
+54-Decatur Street-null-240-20-100-300-750-925-1100-1600-0-100-0-100-0-100-Dark Green-true
+55-Peachtree Street-null-240-20-100-300-750-925-1100-1600-0-100-0-100-0-100-Dark Green-true
+56-Free Parking
+57-Kentucky Avenue-null-220-18-90-250-700-875-1050-2050-0-150-0-150-0-150-Red-false
+58-Chance
+59-Indiana Avenue-null-220-18-90-250-700-875-1050-2050-0-150-0-150-0-150-Red-false
+60-Illinois Avenue-null-240-20-100-300-750-925-1100-2100-0-150-0-150-0-150-Red-false
+61-B & O Railroad-null
+62-Atlantic Avenue-null-260-22-110-330-800-975-1150-2150-0-150-0-150-0-150-Yellow-false
+63-Ventnor Avenue-null-260-22-110-330-800-975-1150-2150-0-150-0-150-0-150-Yellow-false
+64-Water Works-null
+65-Marvin Gardens-null-280-24-120-350-850-1025-1200-2200-0-150-0-150-0-150-Yellow-false
+66-Roll Three
+67-Pacific Avenue-null-300-26-130-390-900-1100-1275-2275-0-200-0-200-0-200-Dark Green-false
+68-North Carolina Avenue-null-300-26-130-390-900-1100-1275-2275-0-200-0-200-0-200-Dark Green-false
+69-Community Chest
+70-Pennysylvania Avenue-null-320-28-150-450-1000-1200-1400-2400-0-200-0-200-0-200-Dark Green-false
+71-Short Line-null
+72-Chance
+73-Park Place-null-350-35-175-500-1100-1300-1500-2500-0-200-0-200-0-200-Dark Blue-false
+74-Luxury Tax
+75-Boardwalk-null-400-50-200-600-1400-1700-2000-3000-0-200-0-200-0-200-Dark Blue-false
+76-Go
+77-Meditteranean Avenue-null-60-2-10-30-90-160-250-750-0-50-0-50-0-50-Dark Purple-false
+78-Community Chest
+79-Baltic Avenue-null-60-4-20-60-180-320-450-900-0-50-0-50-0-50-Dark Purple-false
+80-Income Tax
+81-Reading Railroad-null
+82-Oriental Avenue-null-100-6-30-90-270-400-550-1050-0-50-0-50-0-50-Light Blue-false
+83-Chance
+84-Vermont Avenue-null-100-6-30-90-270-400-550-1050-0-50-0-50-0-50-Light Blue-false
+85-Connecticut Avenue-null-120-8-40-100-300-450-600-1100-0-50-0-50-0-50-Light Blue-false
+86-Jail
+87-St. Charles Place-null-140-10-50-150-450-625-750-1250-0-100-0-100-0-100-Dark Pink-false
+88-Electric Company-null
+89-States Avenue-null-140-10-50-150-450-625-750-1250-0-100-0-100-0-100-Dark Pink-false
+90-Virginia Avenue-null-160-12-60-180-500-700-900-1400-0-100-0-100-0-100-Dark Pink-false
+91-Pennsylvania Railroad-null
+92-St. James Place-null-180-14-70-200-550-750-950-1450-0-100-0-100-0-100-Orange-false
+93-Community Chest
+94-Tennessee Avenue-null-180-14-70-200-550-750-950-1450-0-100-0-100-0-100-Orange-false
+95-New York Avenue-null-200-16-80-220-600-800-1000-1500-0-100-0-100-0-100-Orange-false
+96-Stock Exchange
+97-Wall Street-null-500-80-300-800-1800-2200-2700-4200-0-300-0-300-0-300-Gray-true
+98-Tax Refund
+99-Gas Company-null
+100-Chance
+101-Florida Avenue-null-130-9-45-120-350-500-700-1200-0-50-0-50-0-50-Brown-false
+102-Holland Tunnel
+103-Miami Avenue-null-130-9-45-120-350-500-700-1200-0-50-0-50-0-50-Brown-false
+104-Biscayne Avenue-null-150-11-55-160-475-650-800-1300-0-50-0-50-0-50-Brown-false
+105-Short Line-null
+106-Reverse Direction
+107-Lombard Street-null-210-17-85-240-475-670-1025-1525-0-100-0-100-0-100-White-true
+108-Squeeze Play
+109-The Embarcadero-null-210-17-85-240-475-670-1025-1525-0-100-0-100-0-100-White-false
+110-Fisherman's Wharf-null-250-21-105-320-780-950-1125-1625-0-100-0-100-0-100-White-false
+111-Telephone Company-null
+112-Community Chest
+113-Beacon Street-null-330-30-160-470-1050-1250-1500-2500-0-200-0-200-0-200-Black-true
+114-Bonus
+115-Boylston Street-null-330-30-160-470-1050-1250-1500-2500-0-200-0-200-0-200-Black-true
+116-Newbury Street-null-380-40-185-550-1200-1500-1700-2700-0-200-0-200-0-200-Black-true
+117-Pennsylvania Railroad-null
+118-Fifth Avenue-null-430-60-220-650-1500-1800-2100-3600-0-300-0-300-0-300-Gray-false
+119-Madison Avenue-null-430-60-220-650-1500-1800-2100-3600-0-300-0-300-0-300-Gray-false
