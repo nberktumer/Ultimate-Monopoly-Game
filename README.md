@@ -9,4 +9,4 @@ TODO: Description
 * [Board](https://github.com/nberktumer/Ultimate-Monopoly-Game/blob/master/board.png)
 
 ### Credits
-* [Jon Izaak](https://boardgamegeek.com/thread/1106327/ultimate-monopoly)
+* [Jon Izaak](https://boardgamegeek.com/thread/1106327/ultimate-monopoly) 
